@@ -2,26 +2,27 @@
 
 
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 428px) {
     .mainhome{
         margin: 0;
         padding: 0;
-        width: 414px !important;
+        width: 426px !important;
+        height: 800px !important;
     }
     .content h1{
         top: 350px !important;
         font-size: 40px !important;
-        left: 25px !important;
+        left: 55px !important;
     }
     .content p{
         top: 420px !important;
-        left: 28px !important;
+        left: 56px !important;
         font-size: 20px !important;
         width: 350px !important;
     }
     .img1 img{
         top: 30px !important;
-        left: 45px !important;
+        left: 65px !important;
         width: 300px !important;
         height: 320px !important;
 
@@ -31,15 +32,16 @@
     }
     .content2 h1{
         left: 0px !important;
+        margin-left: 35px !important;
     }
     .fertilizers{
         top: 1300px !important;
         width: 300px !important;
-        left: 35px !important;
+        left: 60px !important;
     }
     .map img{
         top: 2800px !important;
-        width: 414px !important;
+        width: 426px !important;
     }
     .fimg img{
         aspect-ratio: 13/10.5 !important; 
@@ -55,7 +57,7 @@
     .about{
         top: 1800px !important;
         width: 300px !important;
-        left: 35px !important;
+        left: 55px !important;
     }
     .aboutcontent p{
         top: 70px !important;
@@ -69,19 +71,19 @@
     .farmconsultation{
         top: 2300px !important;
         width: 300px !important;
-        left: 35px !important
+        left: 55px !important
     }
     .fcimg{
         aspect-ratio: 13/10.5 !important; 
         width: 300px !important
     }
     .farmconsultationcontent h2{
-        left: 50px !important;
+        left: 75px !important;
         top: 2530px !important;
         font-size: 28px !important;
     }
     .farmconsultationcontent p{
-        left: 52px !important;
+        left: 74px !important;
         top: 2580px !important;
         width: 280px !important;
     }

@@ -1,4 +1,4 @@
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 426px) {
   .bgp {
     width: 414px !important;
     height: 180px !important;
@@ -85,7 +85,7 @@
     font-size: 25px !important;
   }
   .watermanagement {
-    width: 414px !important;
+    width: 414px !important;  
   }
   .watermanagement img {
     left: 195px !important;
